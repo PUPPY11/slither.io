@@ -93,3 +93,5 @@ end
 task :console do
   exec 'irb -I lib -r liquid'
 end
+bash
+
